@@ -1,0 +1,36 @@
+.post {
+  border: 2px solid teal;
+  padding: 16px;
+  margin: 16px auto;
+  width: 500px;
+  
+}
+
+.post h1 {
+  font-size: 24px;
+  margin-bottom: 8px;
+  text-align: center;
+  color: rgb(53, 150, 121);
+}
+
+.post h3 {
+  font-size: 18px;
+  color: #666;
+  text-align: center;
+}
+
+button{
+  background: transparent;
+  padding: 10px;
+  border: none;
+  border:1px solid aquamarine;
+  background-color: teal;
+  color: white;
+  
+}
+
+.btn{
+  margin: 10px auto;
+  width: 100px;
+
+}
